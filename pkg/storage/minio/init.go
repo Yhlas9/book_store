@@ -1,0 +1,5 @@
+package minio
+
+func Init() {
+
+}
